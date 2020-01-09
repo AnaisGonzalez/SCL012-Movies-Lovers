@@ -32,11 +32,11 @@ Nuestro prototipo de figma de alta fidelidad
 
 ![prototipo figma](Prototipos/prot3.jpg)
 
-![prototipo figma](Prototipos/Prot4.jpg)
+![prototipo figma](Prototipos/prot4.jpg)
 
-![prototipo figma](Prototipos/Prot5.jpg)
+![prototipo figma](Prototipos/prot5.jpg)
 
-![prototipo figma](Prototipos/Prot6.jpg)
+![prototipo figma](Prototipos/prot6.jpg)
 
 Nuestro prototipo de figma de alta para movil
 ![prototipo movil](Prototipos/phono1.jpg)
